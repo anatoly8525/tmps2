@@ -1,0 +1,15 @@
+C:\Users\Anatoly\Desktop\tmps\decorator\decorator\obj\Debug\net6.0\decorator.csproj.AssemblyReference.cache
+C:\Users\Anatoly\Desktop\tmps\decorator\decorator\obj\Debug\net6.0\decorator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anatoly\Desktop\tmps\decorator\decorator\obj\Debug\net6.0\decorator.AssemblyInfoInputs.cache
+C:\Users\Anatoly\Desktop\tmps\decorator\decorator\obj\Debug\net6.0\decorator.AssemblyInfo.cs
+C:\Users\Anatoly\Desktop\tmps\decorator\decorator\obj\Debug\net6.0\decorator.csproj.CoreCompileInputs.cache
+C:\Users\Anatoly\Desktop\tmps\decorator\decorator\bin\Debug\net6.0\decorator.exe
+C:\Users\Anatoly\Desktop\tmps\decorator\decorator\bin\Debug\net6.0\decorator.deps.json
+C:\Users\Anatoly\Desktop\tmps\decorator\decorator\bin\Debug\net6.0\decorator.runtimeconfig.json
+C:\Users\Anatoly\Desktop\tmps\decorator\decorator\bin\Debug\net6.0\decorator.dll
+C:\Users\Anatoly\Desktop\tmps\decorator\decorator\bin\Debug\net6.0\decorator.pdb
+C:\Users\Anatoly\Desktop\tmps\decorator\decorator\obj\Debug\net6.0\decorator.dll
+C:\Users\Anatoly\Desktop\tmps\decorator\decorator\obj\Debug\net6.0\refint\decorator.dll
+C:\Users\Anatoly\Desktop\tmps\decorator\decorator\obj\Debug\net6.0\decorator.pdb
+C:\Users\Anatoly\Desktop\tmps\decorator\decorator\obj\Debug\net6.0\decorator.genruntimeconfig.cache
+C:\Users\Anatoly\Desktop\tmps\decorator\decorator\obj\Debug\net6.0\ref\decorator.dll

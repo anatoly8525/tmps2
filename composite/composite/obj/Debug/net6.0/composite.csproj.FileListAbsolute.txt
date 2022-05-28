@@ -1,0 +1,15 @@
+C:\Users\Anatoly\Desktop\tmps\composite\composite\bin\Debug\net6.0\composite.exe
+C:\Users\Anatoly\Desktop\tmps\composite\composite\bin\Debug\net6.0\composite.deps.json
+C:\Users\Anatoly\Desktop\tmps\composite\composite\bin\Debug\net6.0\composite.runtimeconfig.json
+C:\Users\Anatoly\Desktop\tmps\composite\composite\bin\Debug\net6.0\composite.dll
+C:\Users\Anatoly\Desktop\tmps\composite\composite\bin\Debug\net6.0\composite.pdb
+C:\Users\Anatoly\Desktop\tmps\composite\composite\obj\Debug\net6.0\composite.csproj.AssemblyReference.cache
+C:\Users\Anatoly\Desktop\tmps\composite\composite\obj\Debug\net6.0\composite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anatoly\Desktop\tmps\composite\composite\obj\Debug\net6.0\composite.AssemblyInfoInputs.cache
+C:\Users\Anatoly\Desktop\tmps\composite\composite\obj\Debug\net6.0\composite.AssemblyInfo.cs
+C:\Users\Anatoly\Desktop\tmps\composite\composite\obj\Debug\net6.0\composite.csproj.CoreCompileInputs.cache
+C:\Users\Anatoly\Desktop\tmps\composite\composite\obj\Debug\net6.0\composite.dll
+C:\Users\Anatoly\Desktop\tmps\composite\composite\obj\Debug\net6.0\refint\composite.dll
+C:\Users\Anatoly\Desktop\tmps\composite\composite\obj\Debug\net6.0\composite.pdb
+C:\Users\Anatoly\Desktop\tmps\composite\composite\obj\Debug\net6.0\composite.genruntimeconfig.cache
+C:\Users\Anatoly\Desktop\tmps\composite\composite\obj\Debug\net6.0\ref\composite.dll

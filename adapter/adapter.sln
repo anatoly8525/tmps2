@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "adapter", "adapter\adapter.csproj", "{E936DEA8-5637-4CF9-B55A-CE0FD8CBE328}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E936DEA8-5637-4CF9-B55A-CE0FD8CBE328}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E936DEA8-5637-4CF9-B55A-CE0FD8CBE328}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E936DEA8-5637-4CF9-B55A-CE0FD8CBE328}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E936DEA8-5637-4CF9-B55A-CE0FD8CBE328}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
